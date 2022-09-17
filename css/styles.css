@@ -32,7 +32,10 @@ body {
     font-size: 2rem;
     line-height: 1.5;
   }
-  
+  ul
+  {
+   text-align: right;
+  }
   p {
     color: #8f8f8f;
   }
